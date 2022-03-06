@@ -1,0 +1,10 @@
+[property]
+enable=1
+config-width=640
+config-height=640
+osd-mode=2
+display-font-size=12
+
+
+
+
